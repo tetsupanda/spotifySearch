@@ -1,0 +1,9 @@
+const constants = {
+    CHANGE_SEARCH_KEY: 'CHANGE_SEARCH_KEY',
+    Search_Started: 'SEARCH_STARTED',
+    SEARCH_COMPLETED: 'SEARCH_COMPLETED',
+    SET_ACCESS_TOKEN: 'SET_ACCESS_TOKEN',
+    SET_USER_DETAILS: 'SET_USER_DETAILS'
+  }
+  
+  export default constants;
